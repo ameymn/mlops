@@ -1,4 +1,4 @@
-name: base
+name: mlops
 channels:
   - conda-forge
   - defaults
